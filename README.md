@@ -54,7 +54,7 @@ To configure it with a firebase project either
   - Create a new firebase project and retrieve the google-services.json file
 
   - Afterwards follow the instruction here to set up the app with libraries of your choice depending on the service you intent to seek:
- [Firebase Android] (https://firebase.google.com/docs/android/setup)
+ (https://firebase.google.com/docs/android/setup)
  
  
  ## Contribution
