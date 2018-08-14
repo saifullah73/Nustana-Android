@@ -47,13 +47,13 @@ However, if you desire to use the code, or develop something new onto it you can
 with with your firebase project.
 To configure it with a firebase project either 
 
-- Use the android studio build-in plugin to do the job
+- Use the android studio build-in plugin to do the job.
 
 - OR
 
-  - create a new firebase project and retrieve the google-services.json file
+  - Create a new firebase project and retrieve the google-services.json file
 
-  - afterwards follow the instruction here to set up the app with libraries of your choice depending on the service you intent to seek:
+  - Afterwards follow the instruction here to set up the app with libraries of your choice depending on the service you intent to seek:
  [Firebase Android] (https://firebase.google.com/docs/android/setup)
  
  
