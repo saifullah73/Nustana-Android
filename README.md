@@ -13,15 +13,22 @@ user preferences , offline working ,offline storage and data restrictions.
 ## Features 
 ### LogIn/SignUp
 -Email verfication
+
 -Remember Me feature
+
 -Password Recovery
+
 -Data recovery
 
 ### Orders
 -Order Tracking 
+
 -User Order History
+
 -Shop Order History
+
 -Intermediate Shopping Cart History
+
 -Custom Order Size
 
 ### Item
@@ -39,10 +46,14 @@ If you are not concerned with the code and just want to check out the app you ca
 However, if you desire to use the code, or develop something new onto it you can clone this repository to you android project and configure
 with with your firebase project.
 To configure it with a firebase project either 
+
 -Use the android studio build-in plugin to do the job
+
 - OR
- -create a new firebase project and retrieve the google-services.json file
- -afterwards follow the instruction here to set up the app with libraries of your choice depending on the service you intent to seek:
+
+-create a new firebase project and retrieve the google-services.json file
+
+-afterwards follow the instruction here to set up the app with libraries of your choice depending on the service you intent to seek:
  [Firebase Android] (https://firebase.google.com/docs/android/setup)
  
  
