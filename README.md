@@ -8,12 +8,12 @@ learning resource or a productive working app service for a restaurant with a fe
 user preferences , offline working ,offline storage and data restrictions. 
 
 ## ScreenShots
-<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-17.jpeg" width="1000">
-<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-49.jpeg" width="1000">
-<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-41-45.jpeg" width="1000">
-<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-49.jpeg" width="1000">
-<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-42-42.jpeg" width="1000">
-<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-50-31.jpeg" width="1000">
+<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-17.jpeg" width="300">
+<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-49.jpeg" width="300">
+<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-41-45.jpeg" width="300">
+<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-49.jpeg" width="300">
+<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-42-42.jpeg" width="300">
+<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-50-31.jpeg" width="300">
 
 
 ## Features 
@@ -44,14 +44,14 @@ user preferences , offline working ,offline storage and data restrictions.
 Firebase docs can be accessed from here (https://firebase.google.com/docs/)
 
 ## How to Use
-If you are not concerned with the code and just want to check out the app you can installl it from the following link:
+If you are not concerned with the code and just want to check out the app you can install it from the following link:
 (https://drive.google.com/open?id=1Q10MVFvDLbfFSph-B09xSB2dwx6DHa_s)
 
 >The app is completely free from any malicious software and is completely harmless to any of the user data.
 
 However, if you desire to use the code, or develop something new onto it you can clone this repository to you android project and configure
 with with your firebase project.
-To configure it with a firebase project either 
+To configure it with a firebase project either:
 
 - Use the android studio build-in plugin to do the job.
 
