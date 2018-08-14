@@ -12,27 +12,27 @@ user preferences , offline working ,offline storage and data restrictions.
 
 ## Features 
 ### LogIn/SignUp
--Email verfication
+- Email verfication
 
--Remember Me feature
+- Remember Me feature
 
--Password Recovery
+- Password Recovery
 
--Data recovery
+- Data recovery
 
 ### Orders
--Order Tracking 
+- Order Tracking 
 
--User Order History
+- User Order History
 
--Shop Order History
+- Shop Order History
 
--Intermediate Shopping Cart History
+- Intermediate Shopping Cart History
 
--Custom Order Size
+- Custom Order Size
 
 ### Item
--Item creation and editing
+- Item creation and editing
 
 ## API Reference
 Firebase docs can be accessed from here (https://firebase.google.com/docs/)
@@ -47,13 +47,13 @@ However, if you desire to use the code, or develop something new onto it you can
 with with your firebase project.
 To configure it with a firebase project either 
 
--Use the android studio build-in plugin to do the job
+- Use the android studio build-in plugin to do the job
 
 - OR
 
--create a new firebase project and retrieve the google-services.json file
+ - create a new firebase project and retrieve the google-services.json file
 
--afterwards follow the instruction here to set up the app with libraries of your choice depending on the service you intent to seek:
+ - afterwards follow the instruction here to set up the app with libraries of your choice depending on the service you intent to seek:
  [Firebase Android] (https://firebase.google.com/docs/android/setup)
  
  
