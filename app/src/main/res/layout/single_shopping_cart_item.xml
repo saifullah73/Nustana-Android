@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/list_item_height"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:minHeight="@dimen/list_item_height">
+
+    <RelativeLayout
+        android:background="@color/white"
+        android:id="@+id/sTextContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingBottom="5dp">
+
+            <TextView
+                android:id="@+id/sItemNameView"
+                android:layout_width="match_parent"
+                android:layout_height="44dp"
+                android:gravity="bottom"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="@color/button_pink"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                tools:text="Name" />
+
+            <TextView
+                android:id="@+id/sItemQuantityView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="@color/button_pink"
+                tools:text="Quantity: 5" />
+
+            <TextView
+                android:id="@+id/sItemPriceView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top"
+                android:textSize="14sp"
+                android:gravity="top"
+                android:textColor="@color/button_pink"
+                tools:text="300 Rs/-" />
+
+        </LinearLayout>
+
+
+        <ImageView
+            android:id="@+id/sCancelItem"
+            android:layout_width="wrap_content"
+            android:layout_height="22dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:gravity="top"
+            android:src="@drawable/round_clear_black_48dp" />
+
+        <TextView
+            android:id="@+id/sInvisibleKey"
+            android:layout_width="0dp"
+            android:layout_height="0dp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

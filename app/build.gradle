@@ -1,0 +1,60 @@
+apply plugin: 'com.android.application'
+
+repositories {
+    mavenLocal()
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '27.0.3'
+
+    defaultConfig {
+        applicationId "com.example.saif.nustana"
+        minSdkVersion 16
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        vectorDrawables.useSupportLibrary = true
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            buildConfigField 'String',"Key",shopVerificationCode
+            resValue 'string',"key",shopVerificationCode
+        }
+        debug{
+            buildConfigField 'String',"Key",shopVerificationCode
+            resValue 'string',"key",shopVerificationCode
+        }
+
+    }
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE-FIREBASE.txt'
+        exclude 'META-INF/NOTICE'
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support.constraint:constraint-layout:1.1.2'
+    implementation 'com.android.support:support-v4:26.1.0'
+    testImplementation 'junit:junit:4.12'
+    implementation 'com.google.firebase:firebase-database:16.0.1'
+    implementation 'com.android.support:design:26.2.1'
+    implementation 'com.android.support:appcompat-v7:26.2.1'
+    // Displaying images
+    implementation 'com.firebaseui:firebase-ui-storage:0.6.0'
+    implementation 'com.github.bumptech.glide:glide:3.7.0'
+    implementation 'com.google.firebase:firebase-auth:16.0.2'
+    implementation 'com.firebaseui:firebase-ui-auth:4.1.0'
+    implementation 'com.google.android.gms:play-services-auth'
+    implementation 'com.google.firebase:firebase-storage:16.0.1'
+
+}
+apply plugin: 'com.google.gms.google-services'

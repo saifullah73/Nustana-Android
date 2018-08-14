@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Nustana</string>
+    <string name="title_activity_welcome_screen">WelcomeScreenActivity</string>
+    <string name="title_activity_login">Sign Up</string>
+    <string name="burger">Burger</string>
+    <string name="pizza">Pizza</string>
+    <string name="dessert">Dessert</string>
+    <string name="drink">Drink</string>
+    <string name="others">Others</string>
+    <string name="itemName">itemName</string>
+    <string name="itemDescription">itemDescription</string>
+    <string name="itemPrice">itemPrice</string>
+    <string name="itemCategory">itemCategory</string>
+    <string name="imageUrl">imageUrl</string>
+    <string name="itemId">itemId</string>
+    <string name="cocaCola">Coca Cola</string>
+    <string name="sprite">Sprite</string>
+    <string name="fanta">Fanta</string>
+    <string name="mineralWater">Mineral Water</string>
+    <string name="thinCrust">Thin Crust</string>
+    <string name="plainCrust">Plain Crust</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="shop_name"><u>Shop Name</u>:</string>
+    <string name="about"><u>About</u>:</string>
+    <string name="description"><u>Description</u>:</string>
+    <string name="prompt_password">Password </string>
+    <string name="confirm_password">Confirm Password </string>
+    <string name="sign_out">Sign Out </string>
+    <string name="user_name"><u>Name</u>:</string>
+    <string name="user_email"><u>Email</u>:</string>
+    <string name="log_in"><u>Log In</u></string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="user_password"><u>Password</u>:</string>
+    <string name="user_number"><u>Phone Number</u>:</string>
+    <string name="user_address"><u>Address</u>:</string>
+    <string name="password_recover"><u>Lost your Password</u>.</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

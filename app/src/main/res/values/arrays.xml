@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the gender drop-down Spinner -->
+    <string-array name="array_category_options">
+        <item>@string/burger</item>
+        <item>@string/pizza</item>
+        <item>@string/dessert</item>
+        <item>@string/drink</item>
+        <item>@string/others</item>
+    </string-array>
+</resources>

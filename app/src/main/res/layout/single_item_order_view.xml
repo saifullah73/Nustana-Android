@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/list_item_height"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:minHeight="@dimen/list_item_height">
+
+    <RelativeLayout
+        android:background="@color/white"
+        android:id="@+id/sTextContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingBottom="5dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text="OrderId: "
+                    android:gravity="bottom"
+                    android:textSize="16sp"
+                    android:textColor="@color/button_pink"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/soOrderID"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="bottom"
+                    android:textAppearance="?android:textAppearanceMedium"
+                    android:textColor="@color/button_pink"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    tools:text="hhhh" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text="UserId: "
+                    android:gravity="top"
+                    android:textSize="12sp"
+                    android:textStyle="italic"
+                    android:textColor="@color/button_pink" />
+
+                <TextView
+                    android:id="@+id/soUserID"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="top"
+                    android:textSize="12sp"
+                    android:textStyle="italic"
+                    android:textAppearance="?android:textAppearanceMedium"
+                    android:textColor="@color/button_pink"
+                    tools:text="User ID" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/soTotalPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center"
+            android:textSize="14sp"
+            android:text="Total price \n= 3000Rs/-" />
+    </RelativeLayout>
+
+</LinearLayout>
