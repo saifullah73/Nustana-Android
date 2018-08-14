@@ -9,7 +9,7 @@ user preferences , offline working ,offline storage and data restrictions.
 
 ## ScreenShots
 ![ScreenShot](https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-17.jpeg)
-<img src="https://github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-17.jpeg" width="48">
+<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-17.jpeg" width="48">
 ![ScreenShot](https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-49.jpeg)
 ![ScreenShot](https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-41-45.jpeg)
 ![ScreenShot](https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-49.jpeg)
