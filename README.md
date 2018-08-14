@@ -8,13 +8,13 @@ learning resource or a productive working app service for a restaurant with a fe
 user preferences , offline working ,offline storage and data restrictions. 
 
 ## ScreenShots
-![ScreenShot](https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-17.jpeg)
-<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-17.jpeg" width="200">
-![ScreenShot](https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-49.jpeg)
-![ScreenShot](https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-41-45.jpeg)
-![ScreenShot](https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-49.jpeg)
-![ScreenShot](https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-42-42.jpeg)
-![ScreenShot](https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-50-31.jpeg)
+<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-17.jpeg" width="1000">
+<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-49.jpeg" width="1000">
+<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-41-45.jpeg" width="1000">
+<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-49.jpeg" width="1000">
+<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-42-42.jpeg" width="1000">
+<img src="https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-50-31.jpeg" width="1000">
+
 
 ## Features 
 ### LogIn/SignUp
