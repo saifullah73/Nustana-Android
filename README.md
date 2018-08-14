@@ -8,7 +8,8 @@ learning resource or a productive working app service for a restaurant with a fe
 user preferences , offline working ,offline storage and data restrictions. 
 
 ## ScreenShots
-![ScreenShot](https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-17.jpeg)![ScreenShot](https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-49.jpeg)
+![ScreenShot](https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-17.jpeg =250x250)
+![ScreenShot](https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-49.jpeg)
 ![ScreenShot](https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-41-45.jpeg)
 ![ScreenShot](https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-39-49.jpeg)
 ![ScreenShot](https://raw.github.com/saifullah73/Nustana-Android/master/app/src/main/res/Screenshots/Screenshot_2018-08-15-00-42-42.jpeg)
